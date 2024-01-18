@@ -1144,7 +1144,7 @@ section {
 
 .tool-logo-text {
   font-family: "Poppins", sans-serif;
-  font-size: 120%;
+  font-size: 150%;
   font-weight: 600;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -1159,7 +1159,7 @@ section {
 
 @media (max-width: 858px) {
   .tool-logo-text {
-    font-size: 120%;
+    font-size: 100%;
   }
 }
 
