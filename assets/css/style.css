@@ -1157,14 +1157,26 @@ section {
   
 }
 
-@media (max-width: 858px) {
+@media (max-width: 1199px) {
   .tool-logo-text {
-    font-size: 100%;
+    font-size: 120%;
   }
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1000px) {
   .tool-logo-text {
-    font-size: 100%;
+    font-size: 105%;
+  }
+}
+
+@media (max-width: 900) {
+  .tool-logo-text {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 850px) {
+  .tool-logo-text {
+    font-size: 75%;
   }
 }
