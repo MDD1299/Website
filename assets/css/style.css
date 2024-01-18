@@ -1141,6 +1141,7 @@ section {
 @media (max-width: 768px) {
   .description-about{
     font-size: 16px;
+    text-align: justify;
   }
 }
 
@@ -1192,6 +1193,5 @@ section {
 @media (max-width: 850px) {
   .tool-logo-text {
     font-size: 65%;
-    text-align: left;
   }
 }
